@@ -5,11 +5,9 @@ HouseManager, farklı türdeki evleri (Ev, Villa, Yazlık) yönetmek ve bu evler
 ## İçindekiler
 
 - [Özellikler](#özellikler)
+- [Mevcut Metotlar](#mevcut-metotlar)
 - [Kurulum](#kurulum)
-- [Kullanım](#kullanım)
-- [Proje Yapısı](#proje-yapısı)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
+
 
 ## Özellikler
 
